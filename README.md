@@ -1,4 +1,6 @@
-webrtc-pubsub
+WebRTC PubSub
 =============
 
-PubSub over WebRTC
+Distributed PubSub connecting clients as well as servers.
+
+[Wiki](https://github.com/webrtc-pubsub/wiki)
